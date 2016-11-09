@@ -43,7 +43,7 @@ TODO: 个人基础工具 YJBaseTool.
 s.dependency 'JHUD', '~> 0.3.0'
 
 s.dependency 'YJHttpRequest', '~> 0.1.3'
-s.dependency 'LTExtUIBase', '~> 0.1.0'
+s.dependency 'LTExtUIBase', '~> 0.1.2'
 s.dependency 'RSA1024', '~> 0.1.0'
 s.dependency 'LTAlertView', '~> 0.1.0'
 s.dependency 'LTRouter', '~> 0.1.0'

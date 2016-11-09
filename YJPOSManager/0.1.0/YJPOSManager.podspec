@@ -32,6 +32,7 @@ TODO: YJPOSManager 个人POS工具
 
   s.source_files = 'YJPOSManager/Classes/**/*'
   s.vendored_libraries = 'YJPOSManager/Classes/**/*.a'
+  s.resource     = "YJPOSManager/Assets/YJSDK.bundle"
   # s.resource_bundles = {
   #   'YJPOSManager' => ['YJPOSManager/Assets/*.png']
   # }
@@ -39,7 +40,7 @@ TODO: YJPOSManager 个人POS工具
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
-s.dependency 'LTExtUIBase', '~> 0.1.1'
+s.dependency 'LTExtUIBase', '~> 0.1.2'
 s.dependency 'LTExtNSObject', '~> 0.1.0'
 s.dependency 'LTExtNSString', '~> 0.1.0'
 s.dependency 'LTAlertView', '~> 0.1.0'
