@@ -40,7 +40,6 @@ s.resource     = "YJOrderPay/Assets/**/*.{storyboard,xib}"
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 s.dependency 'YJUserInfo', '~> 0.1.0'
-s.dependency 'YJPOSManager', '~> 0.1.0'
 s.dependency 'LTHUDView', '~> 0.1.0'
 
 
