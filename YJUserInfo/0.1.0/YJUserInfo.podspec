@@ -41,5 +41,4 @@ TODO: yj 用户相关操作.
   # s.dependency 'AFNetworking', '~> 2.3'
 
 s.dependency 'YJHttpRequest', '~> 0.1.3'
-s.dependency 'YJBaseTool', '~> 0.1.0'
 end
